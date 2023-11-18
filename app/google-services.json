@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1018297422399",
+    "project_id": "incognitochat-2bf0c",
+    "storage_bucket": "incognitochat-2bf0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018297422399:android:a93266462e18631e98de8a",
+        "android_client_info": {
+          "package_name": "com.example.IncognitoChat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7iXWkTqhVrbAg4MAsssZUdLxeR3lnt-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018297422399:android:e58fbbbf55bccdad98de8a",
+        "android_client_info": {
+          "package_name": "com.example.easychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7iXWkTqhVrbAg4MAsssZUdLxeR3lnt-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
