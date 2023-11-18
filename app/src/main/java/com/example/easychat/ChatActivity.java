@@ -178,15 +178,10 @@ public class ChatActivity extends AppCompatActivity {
                    jsonObject.put("to",otherUser.getFcmToken());
 
                    callApi(jsonObject);
-
-
                }catch (Exception e){
-
                }
-
            }
        });
-
     }
 
     void callApi(JSONObject jsonObject){

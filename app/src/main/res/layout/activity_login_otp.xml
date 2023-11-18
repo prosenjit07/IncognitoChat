@@ -66,7 +66,7 @@
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:src="@drawable/otp_icon"
-        app:tint="@color/my_primary"
+        app:tint="#CF1C28"
         android:layout_weight="20"
         />
 
