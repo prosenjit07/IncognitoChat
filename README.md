@@ -1,4 +1,4 @@
-# Firebase Chat App
+# IncognitoChat App
 
 Welcome to the IncognitoChat App repository! This app enables real-time chat functionality using Firebase as the backend. Below is a list of key files and their functionalities:
 
