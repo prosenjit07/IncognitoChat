@@ -95,6 +95,7 @@
             android:padding="10dp"
             android:hint="OTP"
             android:inputType="number"
+            android:textColor="#121111"
             android:maxLength="6"
             android:layout_margin="10dp"
             android:background="@drawable/edit_text_rounded_corner"
