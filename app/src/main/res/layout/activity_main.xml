@@ -9,7 +9,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/my_primary"
+        android:background="@color/chat_color_receiver"
         android:padding="10dp"
         android:id="@+id/main_toolbar">
 
@@ -41,6 +41,7 @@
         android:layout_height="match_parent"
         android:layout_below="@id/main_toolbar"
         android:layout_above="@id/divider"
+        android:textColor="#121111"
         android:id="@+id/main_frame_layout"/>
 
     <com.google.android.material.divider.MaterialDivider
@@ -56,8 +57,4 @@
         android:background="?attr/selectableItemBackgroundBorderless"
         android:id="@+id/bottom_navigation"
         app:menu="@menu/bottom_navigation_menu"/>
-
-
-
-
 </RelativeLayout>

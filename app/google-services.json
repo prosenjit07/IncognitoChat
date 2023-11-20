@@ -12,7 +12,20 @@
           "package_name": "com.example.IncognitoChat"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "1018297422399-k85ppdi4d8japdom7ikebpr4ogvcco40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.IncognitoChat",
+            "certificate_hash": "92280daadafc42e801553c3502d29673152e9f8e"
+          }
+        },
+        {
+          "client_id": "1018297422399-lhn9fi5jev7b2q4pfbfha0p973rd0qu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyA7iXWkTqhVrbAg4MAsssZUdLxeR3lnt-E"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018297422399-lhn9fi5jev7b2q4pfbfha0p973rd0qu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     },
@@ -31,7 +49,20 @@
           "package_name": "com.example.easychat"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "1018297422399-rh11ci0g32afss00omtl7vkppefgjj38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easychat",
+            "certificate_hash": "92280daadafc42e801553c3502d29673152e9f8e"
+          }
+        },
+        {
+          "client_id": "1018297422399-lhn9fi5jev7b2q4pfbfha0p973rd0qu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyA7iXWkTqhVrbAg4MAsssZUdLxeR3lnt-E"
@@ -39,7 +70,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018297422399-lhn9fi5jev7b2q4pfbfha0p973rd0qu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

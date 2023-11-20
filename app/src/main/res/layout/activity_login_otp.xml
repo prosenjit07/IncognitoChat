@@ -76,6 +76,7 @@
         android:text="Enter OTP sent to your phone number"
         android:layout_gravity="center_vertical"
         android:letterSpacing="0.08"
+        android:textColor="#121111"
         android:textStyle="bold"
         android:textSize="25sp"
         android:layout_weight="5"/>
@@ -120,7 +121,7 @@
         <ProgressBar
             android:layout_width="32dp"
             android:layout_height="wrap_content"
-            android:indeterminateTint="@color/my_primary"
+            android:indeterminateTint="@color/chat_color_receiver"
             android:layout_gravity="center"
             android:id="@+id/login_progress_bar"/>
     </LinearLayout>

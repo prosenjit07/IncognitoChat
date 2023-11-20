@@ -74,6 +74,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Enter mobile number"
+        android:textColor="@color/black"
         android:layout_gravity="center_vertical"
         android:letterSpacing="0.08"
         android:textStyle="bold"

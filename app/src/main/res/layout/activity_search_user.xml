@@ -9,7 +9,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/my_primary"
+        android:background="@color/chat_color_receiver"
         android:padding="10dp"
         android:id="@+id/toolbar">
 
@@ -43,16 +43,21 @@
         android:id="@+id/search_user_layout">
 
         <EditText
+            android:id="@+id/seach_username_input"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@drawable/edit_text_rounded_corner"
-            android:layout_margin="10dp"
             android:hint="Username"
-            android:padding="10dp"
-            android:elevation="4dp"
+            android:textColorHint="@color/black"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/black"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
             android:layout_toLeftOf="@id/search_user_btn"
-            android:id="@+id/seach_username_input"
-            />
+            android:background="@drawable/edit_text_rounded_corner"
+            android:elevation="4dp"
+            android:padding="10dp" />
+
         <ImageButton
             android:layout_width="40dp"
             android:layout_height="40dp"
@@ -69,6 +74,7 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
+        android:textColor="#121111"
         android:layout_height="wrap_content"
         android:layout_below="@id/search_user_layout"
         android:padding="10dp"

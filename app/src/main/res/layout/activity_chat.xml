@@ -9,7 +9,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/my_primary"
+        android:background="@color/chat_color_receiver"
         android:padding="10dp"
         android:id="@+id/toolbar">
 
@@ -49,6 +49,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@id/toolbar"
+        android:textColor="#121111"
         android:layout_above="@id/bottom_layout"
         android:id="@+id/chat_recycler_view"/>
 

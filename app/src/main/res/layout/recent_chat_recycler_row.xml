@@ -28,6 +28,7 @@
                 tools:text="User name"
                 android:textSize="18sp"
                 android:textStyle="bold"
+                android:textColor="#121111"
                 android:id="@+id/user_name_text"/>
             <TextView
                 android:layout_width="wrap_content"
