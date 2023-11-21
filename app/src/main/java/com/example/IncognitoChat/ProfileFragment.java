@@ -23,7 +23,6 @@ import android.widget.TextView;
 import com.example.IncognitoChat.model.UserModel;
 import com.example.IncognitoChat.utils.AndroidUtil;
 import com.example.IncognitoChat.utils.FirebaseUtil;
-import com.example.easychat.R;
 import com.github.dhaval2404.imagepicker.ImagePicker;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;

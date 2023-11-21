@@ -13,10 +13,10 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.IncognitoChat.ChatActivity;
+import com.example.IncognitoChat.R;
 import com.example.IncognitoChat.model.UserModel;
 import com.example.IncognitoChat.utils.AndroidUtil;
 import com.example.IncognitoChat.utils.FirebaseUtil;
-import com.example.easychat.R;
 import com.firebase.ui.firestore.FirestoreRecyclerAdapter;
 import com.firebase.ui.firestore.FirestoreRecyclerOptions;
 
