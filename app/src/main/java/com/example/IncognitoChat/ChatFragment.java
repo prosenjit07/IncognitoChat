@@ -1,4 +1,4 @@
-package com.example.easychat;
+package com.example.IncognitoChat;
 
 import android.os.Bundle;
 
@@ -10,11 +10,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.easychat.adapter.RecentChatRecyclerAdapter;
-import com.example.easychat.adapter.SearchUserRecyclerAdapter;
-import com.example.easychat.model.ChatroomModel;
-import com.example.easychat.model.UserModel;
-import com.example.easychat.utils.FirebaseUtil;
+import com.example.IncognitoChat.adapter.RecentChatRecyclerAdapter;
+import com.example.IncognitoChat.model.ChatroomModel;
+import com.example.IncognitoChat.utils.FirebaseUtil;
 import com.firebase.ui.firestore.FirestoreRecyclerOptions;
 import com.google.firebase.firestore.Query;
 

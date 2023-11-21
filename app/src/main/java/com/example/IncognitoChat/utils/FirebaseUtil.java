@@ -1,4 +1,4 @@
-package com.example.easychat.utils;
+package com.example.IncognitoChat.utils;
 
 import com.google.firebase.Timestamp;
 import com.google.firebase.auth.FirebaseAuth;

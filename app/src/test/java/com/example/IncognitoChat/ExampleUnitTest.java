@@ -1,4 +1,4 @@
-package com.example.easychat;
+package com.example.IncognitoChat;
 
 import org.junit.Test;
 

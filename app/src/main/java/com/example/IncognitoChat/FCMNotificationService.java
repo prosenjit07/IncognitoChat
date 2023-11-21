@@ -1,4 +1,4 @@
-package com.example.easychat;
+package com.example.IncognitoChat;
 
 import com.google.firebase.messaging.FirebaseMessagingService;
 
