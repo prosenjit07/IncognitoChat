@@ -9,6 +9,7 @@ import android.os.Handler;
 import com.example.IncognitoChat.model.UserModel;
 import com.example.IncognitoChat.utils.AndroidUtil;
 import com.example.IncognitoChat.utils.FirebaseUtil;
+import com.example.easychat.R;
 
 public class SplashActivity extends AppCompatActivity {
 

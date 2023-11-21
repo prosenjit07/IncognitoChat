@@ -13,6 +13,7 @@ import android.view.ViewGroup;
 import com.example.IncognitoChat.adapter.RecentChatRecyclerAdapter;
 import com.example.IncognitoChat.model.ChatroomModel;
 import com.example.IncognitoChat.utils.FirebaseUtil;
+import com.example.easychat.R;
 import com.firebase.ui.firestore.FirestoreRecyclerOptions;
 import com.google.firebase.firestore.Query;
 

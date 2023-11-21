@@ -11,6 +11,7 @@ import android.widget.ImageButton;
 import com.example.IncognitoChat.adapter.SearchUserRecyclerAdapter;
 import com.example.IncognitoChat.model.UserModel;
 import com.example.IncognitoChat.utils.FirebaseUtil;
+import com.example.easychat.R;
 import com.firebase.ui.firestore.FirestoreRecyclerOptions;
 import com.google.firebase.firestore.Query;
 

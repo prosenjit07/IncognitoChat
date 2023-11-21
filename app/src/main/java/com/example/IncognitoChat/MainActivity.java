@@ -9,6 +9,7 @@ import android.view.MenuItem;
 import android.widget.ImageButton;
 
 import com.example.IncognitoChat.utils.FirebaseUtil;
+import com.example.easychat.R;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
 import com.google.firebase.messaging.FirebaseMessaging;
