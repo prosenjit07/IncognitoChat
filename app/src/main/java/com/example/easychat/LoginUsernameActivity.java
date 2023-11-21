@@ -1,4 +1,4 @@
-package com.example.IncognitoChat;
+package com.example.easychat;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -10,8 +10,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ProgressBar;
 
-import com.example.IncognitoChat.model.UserModel;
-import com.example.IncognitoChat.utils.FirebaseUtil;
+import com.example.easychat.model.UserModel;
+import com.example.easychat.utils.FirebaseUtil;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.Timestamp;

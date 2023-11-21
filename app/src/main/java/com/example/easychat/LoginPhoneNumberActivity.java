@@ -1,4 +1,4 @@
-package com.example.IncognitoChat;
+package com.example.easychat;
 
 import androidx.appcompat.app.AppCompatActivity;
 

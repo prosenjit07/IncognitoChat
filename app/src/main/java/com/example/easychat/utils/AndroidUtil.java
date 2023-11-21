@@ -1,4 +1,4 @@
-package com.example.IncognitoChat.utils;
+package com.example.easychat.utils;
 
 import android.content.Context;
 import android.content.Intent;
@@ -8,7 +8,8 @@ import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
-import com.example.IncognitoChat.model.UserModel;
+import com.example.easychat.model.UserModel;
+import com.google.firebase.firestore.auth.User;
 
 public class AndroidUtil {
 
