@@ -1,4 +1,4 @@
-package com.example.easychat;
+package com.example.IncognitoChat;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -12,7 +12,6 @@ import android.widget.ProgressBar;
 import com.hbb20.CountryCodePicker;
 
 public class LoginPhoneNumberActivity extends AppCompatActivity {
-
     CountryCodePicker countryCodePicker;
     EditText phoneInput;
     Button sendOtpBtn;
@@ -41,6 +40,4 @@ public class LoginPhoneNumberActivity extends AppCompatActivity {
             startActivity(intent);
         });
     }
-
-
 }

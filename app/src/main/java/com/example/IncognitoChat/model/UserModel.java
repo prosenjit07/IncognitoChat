@@ -1,8 +1,8 @@
-package com.example.easychat.model;
+package com.example.IncognitoChat.model;
 
 import com.google.firebase.Timestamp;
 
-public class UserModel {
+public class UserModel{
     private String phone;
     private String username;
     private Timestamp createdTimestamp;

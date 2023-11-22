@@ -1,4 +1,4 @@
-package com.example.easychat.adapter;
+package com.example.IncognitoChat.adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -7,23 +7,19 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.easychat.ChatActivity;
-import com.example.easychat.R;
-import com.example.easychat.model.ChatroomModel;
-import com.example.easychat.model.UserModel;
-import com.example.easychat.utils.AndroidUtil;
-import com.example.easychat.utils.FirebaseUtil;
+import com.example.IncognitoChat.ChatActivity;
+import com.example.IncognitoChat.model.ChatroomModel;
+import com.example.IncognitoChat.model.UserModel;
+import com.example.IncognitoChat.utils.AndroidUtil;
+import com.example.IncognitoChat.utils.FirebaseUtil;
+import com.example.IncognitoChat.R;
 import com.firebase.ui.firestore.FirestoreRecyclerAdapter;
 import com.firebase.ui.firestore.FirestoreRecyclerOptions;
-import com.google.android.gms.tasks.OnCompleteListener;
-import com.google.android.gms.tasks.Task;
-import com.google.firebase.firestore.DocumentSnapshot;
 
 public class RecentChatRecyclerAdapter extends FirestoreRecyclerAdapter<ChatroomModel, RecentChatRecyclerAdapter.ChatroomModelViewHolder> {
 

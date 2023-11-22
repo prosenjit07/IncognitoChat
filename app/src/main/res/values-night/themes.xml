@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.EasyChat" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.IncognitoChat" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/my_primary</item>
         <item name="colorPrimaryVariant">@color/my_primary</item>
@@ -10,7 +10,7 @@
         <item name="colorSecondaryVariant">@color/my_secondary</item>
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
-        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:statusBarColor">@color/my_primary</item>
         <!-- Customize your theme here. -->
         <item name="android:windowBackground">@color/off_white</item>
     </style>

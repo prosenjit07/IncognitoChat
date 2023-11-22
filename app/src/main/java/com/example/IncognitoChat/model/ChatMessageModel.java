@@ -1,4 +1,4 @@
-package com.example.easychat.model;
+package com.example.IncognitoChat.model;
 
 import com.google.firebase.Timestamp;
 
@@ -6,7 +6,6 @@ public class ChatMessageModel {
     private String message;
     private String senderId;
     private Timestamp timestamp;
-
     public ChatMessageModel() {
     }
 

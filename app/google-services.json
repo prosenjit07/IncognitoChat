@@ -46,7 +46,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1018297422399:android:e58fbbbf55bccdad98de8a",
         "android_client_info": {
-          "package_name": "com.example.easychat"
+          "package_name": "com.example.IncognitoChat"
         }
       },
       "oauth_client": [
@@ -54,7 +54,7 @@
           "client_id": "1018297422399-rh11ci0g32afss00omtl7vkppefgjj38.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.easychat",
+            "package_name": "com.example.IncognitoChat",
             "certificate_hash": "92280daadafc42e801553c3502d29673152e9f8e"
           }
         },
