@@ -70,6 +70,7 @@
         android:id="@+id/logout_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Logout"
+        android:text="Log out"
+        android:backgroundTint="#ED1010"
         android:textColor="#121111" />
 </LinearLayout>
