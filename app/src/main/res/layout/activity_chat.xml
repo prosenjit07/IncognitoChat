@@ -67,15 +67,15 @@
             android:layout_centerInParent="true"
             android:layout_marginStart="10dp"
             android:layout_marginTop="10dp"
-            android:textColorHint="@color/black"
-            android:textColor="@color/black"
             android:layout_marginEnd="10dp"
             android:layout_marginBottom="10dp"
             android:layout_toLeftOf="@id/message_send_btn"
             android:background="@drawable/edit_text_rounded_corner"
             android:elevation="4dp"
             android:hint="Write message here"
-            android:padding="10dp" />
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:textColorHint="#272525" />
 
         <ImageButton
             android:layout_width="48dp"
